@@ -4,7 +4,7 @@
 #
 Name     : nose-exclude
 Version  : 0.4.1
-Release  : 12
+Release  : 13
 URL      : https://github.com/kgrandis/nose-exclude/archive/0.4.1.tar.gz
 Source0  : https://github.com/kgrandis/nose-exclude/archive/0.4.1.tar.gz
 Summary  : No detailed summary available
