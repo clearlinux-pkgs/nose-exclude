@@ -4,7 +4,7 @@
 #
 Name     : nose-exclude
 Version  : 0.5.0
-Release  : 15
+Release  : 16
 URL      : https://github.com/kgrandis/nose-exclude/archive/0.5.0.tar.gz
 Source0  : https://github.com/kgrandis/nose-exclude/archive/0.5.0.tar.gz
 Summary  : No detailed summary available
